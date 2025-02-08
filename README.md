@@ -44,9 +44,9 @@ I'm a **full-stack developer** with a keen interest in **cybersecurity and web d
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories (Projects)
 <!-- Add your project links here -->
-- [**Project Name 1**](#) - Short description of the project.
+- [**Bubble Game**](https://knishkarora.github.io/js-bubble-game/) - Bubble Game 🎈 is a fun and interactive web-based game where players pop the correct bubbles before time runs out. Built with HTML, CSS, and JavaScript, it features smooth animations using GSAP and a dynamic scoring system. Test your reflexes, beat the clock, and challenge yourself with each restart! 🚀
 - [**Project Name 2**](#) - Short description of the project.
 - [**Project Name 3**](#) - Short description of the project.
 
