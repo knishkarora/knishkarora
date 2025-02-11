@@ -47,8 +47,7 @@ I'm a **full-stack developer** with a keen interest in **cybersecurity and web d
 ## 📌 Pinned Repositories (Projects)
 <!-- Add your project links here -->
 - [**Bubble Game**](https://knishkarora.github.io/js-bubble-game/) - Bubble Game 🎈 is a fun and interactive web-based game where players pop the correct bubbles before time runs out. Built with HTML, CSS, and JavaScript, it features smooth animations using GSAP and a dynamic scoring system. Test your reflexes, beat the clock, and challenge yourself with each restart! 🚀
-- [**Project Name 2**](#) - Short description of the project.
-- [**Project Name 3**](#) - Short description of the project.
+- [**LuxeFX UI Project**](https://knishkarora.github.io/LuxeFX-UI-Project/) - **LuxeFX ✨** is a visually immersive web experience featuring dynamic animations, smooth text transitions, and interactive UI effects. Built with **HTML, CSS, and JavaScript**, it leverages **Shery.js, GSAP, and Three.js** to create stunning visuals and seamless interactions. Elevate your browsing experience with fluid motion, engaging design, and a touch of innovation! 🚀🎨
 
 ---
 
